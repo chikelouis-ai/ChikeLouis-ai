@@ -58,7 +58,7 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/chikelouis-ai/Setting-up-a-Virtual-Home-Lab-Project) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/chikelouis-ai/Implementation-of-On-Premises-Active-Directory-for-Centralized-Identity-and-Access-Management) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 03-ad-enum-privesc | Configuring and hardening clou console in AWS | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
